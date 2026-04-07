@@ -1,4 +1,4 @@
-package minimarket;
+import minimarket.makananRingan;
 
 public class Main {
     public static void main(String[] args) {
